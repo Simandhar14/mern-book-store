@@ -7,6 +7,8 @@ This project involves leveraging the MERN stack to build a dynamic website dedic
 
 
 ## Website Preview
+<img width="687" alt="1 1" src="https://github.com/Simandhar14/mern-book-store/assets/121376696/0f25936b-a03b-4df3-86fe-a1d670472020">
+
 ## Features of the Project
 
 - **User Interface:**
