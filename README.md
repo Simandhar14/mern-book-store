@@ -7,7 +7,20 @@ This project involves leveraging the MERN stack to build a dynamic website dedic
 
 
 ## Website Preview
+
 <img width="687" alt="1 1" src="https://github.com/Simandhar14/mern-book-store/assets/121376696/0f25936b-a03b-4df3-86fe-a1d670472020">
+
+<img width="908" alt="1" src="https://github.com/Simandhar14/mern-book-store/assets/121376696/2e3be991-f7b6-42b3-a535-c8f1b4856fe4">
+
+<img width="910" alt="2" src="https://github.com/Simandhar14/mern-book-store/assets/121376696/0595e754-0e75-41e5-b6c1-79aaa2961041">
+
+<img width="922" alt="3" src="https://github.com/Simandhar14/mern-book-store/assets/121376696/438413fa-55cd-4740-bea7-f6b54ecda92d">
+
+<img width="929" alt="4" src="https://github.com/Simandhar14/mern-book-store/assets/121376696/9cdc610c-5c68-401f-bd15-0aa174172564">
+
+<img width="932" alt="5" src="https://github.com/Simandhar14/mern-book-store/assets/121376696/a0baa48b-5aa2-4e54-85ae-6a259e09ffab">
+
+<img width="933" alt="6" src="https://github.com/Simandhar14/mern-book-store/assets/121376696/09889803-3b16-4216-9694-ba459a4a9366">
 
 ## Features of the Project
 
