@@ -32,7 +32,7 @@ This project involves leveraging the MERN stack to build a dynamic website dedic
   - New users have the option to sign up for an account.
   - The interface incorporates Firebase authentication, including Google Sign-In functionality.
 
-  - **Admin Interface:**
+- **Admin Interface:**
   - Access to the admin dashboard requires users to first create an account by signing up or logging in with existing credentials.
   - Within the admin dashboard, users can efficiently manage books by editing their details.
   - Each book includes essential information such as the book title, author, description, URL of the book image, and URL of the book PDF.
